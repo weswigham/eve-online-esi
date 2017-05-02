@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "regen": "bash ./scripts/regenerate-fromspec.sh && tsc"
   },
-  "author": "",
+  "author": "Wesley Wigham <wwigham@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.0",
@@ -17,5 +17,6 @@
   "devDependencies": {
     "@types/node": "^7.0.15",
     "typescript": "^2.3.2"
-  }
+  },
+  "repository": "https://github.com/weswigham/eve-online-esi.git"
 }
