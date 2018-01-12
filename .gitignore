@@ -1,4 +1,3 @@
 wwwroot/*.js
 node_modules
-
-swagger-codegen-cli*
+typings
