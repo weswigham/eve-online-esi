@@ -1,4 +1,4 @@
 wwwroot/*.js
 node_modules
 typings
-swagger-codegen-*
+swagger-codegen-cli-2.2.2.jar
