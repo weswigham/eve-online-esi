@@ -6,7 +6,7 @@
   "types": "api.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "regen": "bash ./scripts/regenerate-fromspec.sh && tsc"
+    "regen": "bash ./scripts/regenerate-fromspec.sh && tsc && bash ./scripts/set-version-number.sh"
   },
   "author": "Wesley Wigham <wwigham@gmail.com>",
   "license": "MIT",
